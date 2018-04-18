@@ -5,5 +5,5 @@
 Dockerfile
 
 ```
-FROM dietergribnitz:docker-stack
+dietergribnitz/dockerstack:latest
 ```
