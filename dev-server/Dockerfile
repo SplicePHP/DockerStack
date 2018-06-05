@@ -7,7 +7,7 @@ RUN apt-get -y install jq
 RUN apt-get -y install dpkg-dev
 RUN apt-get -y install htop
 RUN apt-get -y install traceroute
-RUN apt-get -y install smartmontools
+#RUN apt-get -y install smartmontools
 #RUN apt-get -y install webmin
 
 
